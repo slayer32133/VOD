@@ -1,0 +1,7 @@
+
+#EXTINF:-1 tvg-id="" tvg-name="Combate" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="CANAIS ESPORTE",Combate
+http://painel.iptvmove.com:25461/live/danga07/1963/1337.m3u8
+#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-name="Combate HD" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="CANAIS ESPORTE",Combate HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD [Alter]" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="CANAIS ESPORTE",Combate HD [Alter]
+http://painel.iptvmove.com:25461/live/danga07/1963/3125.m3u8
